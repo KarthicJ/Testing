@@ -36,6 +36,10 @@ addons:
     - scala
     - qpdf
     - texinfo
+    - shiny
+    - ggplot2
+    - ggthemes
+    - devtools
 
 # install dependencies
 install:
